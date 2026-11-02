@@ -1,0 +1,6 @@
+.DS_Store
+venv/
+.venv/
+keys/
+.ipynb_checkpoints/
+data/ws2026_final.csv
